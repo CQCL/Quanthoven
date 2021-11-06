@@ -4,7 +4,7 @@ This repository holds the code and the datasets for the paper:
 
 - Miranda, Yeung, Pearson, Meichanetzidis, Coecke (2021). *A Quantum Natural Language Processing Approach to Musical Intelligence*
 
-This paper pioneers a Quantum Natural Language Processing approach to classifying music. Using this quantum classifier we use a generate and test approach to generate quantum music. This is a proof of concept, but as quantum devices improve in size and fidelity we will be able to learn a quantum classifier that hard to simulate on a classical device.
+This paper pioneers a Quantum Natural Language Processing approach to classifying music. Using this quantum classifier we use a generate and test approach to generate quantum music. This is a proof of concept, but as quantum devices improve in size and fidelity we will be able to learn a quantum classifier that would be hard to simulate on a classical device.
 
 # Contents
 
